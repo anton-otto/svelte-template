@@ -38,7 +38,8 @@
                     href="https://twitter.com/AntonOtto_FFC" target="_blank">{website}</a
                   >
                 </p>
-                <a href="https://buy.stripe.com/14keUY4f1cwXgmY4gh" class="rounded px-2 py-1 bg-[#EDA414] text-slate-800 font-bold text-sm md:text-md">Book now $19,80/hr</a>
+                <a href="https://buy.stripe.com/14keUY4f1cwXgmY4gh?prefilled_promo_code=GORILLAGANG" class="rounded px-2 py-1 bg-[#EDA414] text-slate-800 font-bold text-sm md:text-md">Book now for only $19,80/hr</a>
+                <p class="text-red-700 text-base">Use promocode: GORILLAGANG 80% off<br/>- Only 5 left</p>
               </div>
               
 
