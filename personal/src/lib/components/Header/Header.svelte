@@ -38,7 +38,7 @@
                     href="https://twitter.com/AntonOtto_FFC" target="_blank">{website}</a
                   >
                 </p>
-                <a href="https://book.stripe.com/00g4gk4f1dB11s4000" class="rounded px-2 py-1 bg-[#EDA414] text-slate-800 font-bold text-sm md:text-md">Book now $77/hr</a>
+                <a href="https://buy.stripe.com/14keUY4f1cwXgmY4gh" class="rounded px-2 py-1 bg-[#EDA414] text-slate-800 font-bold text-sm md:text-md">Book now $19/hr</a>
               </div>
               
 
