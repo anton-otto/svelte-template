@@ -1,2 +1,17 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+    import Header from "$lib/components/Header/Header.svelte";
+    import TweetSummary from "$lib/components/TweetSummary/TweetSummary.svelte";
+
+    let person = {
+        name: "Anton Otto",
+        subtitle: "Webdeveloper using the internet!",
+        website: "antonotto.nl",
+    };
+
+    let name = person.name;
+    let subtitle = person.subtitle;
+    let website = person.website;
+</script>
+
+<Header {name} {subtitle} {website} />
+<TweetSummary />
