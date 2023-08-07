@@ -7,7 +7,7 @@
 </script>
 
 <section>
-    <div class="mx-auto max-w-7xl px-8 py-12 lg:pt-24">
+    <div class="mx-auto max-w-7xl px-8 py-12 lg:pt-12">
       <div class="mx-auto max-w-xl">
         <div>
           <div class="md:flex md:items-center md:justify-between md:space-x-5">

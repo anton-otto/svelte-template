@@ -33,8 +33,6 @@
         "title": "Monetization is an important part of creating a sustainable business 🤑",
         "description": "There is 101 ways to monetize your skills and knowledge   But these are my favorites: [...]"
     }
-
-
    
     ]
 </script>
