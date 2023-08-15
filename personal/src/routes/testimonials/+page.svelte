@@ -1,5 +1,11 @@
 <script>
     let testimonials = [
+    {
+            "date": "15-08-2023",
+            "link": "https://twitter.com/AntonOtto_FFC/status/1691248070195896320?s=20",
+            "title": "[...] Looks really cool 😁 great work Anton!",
+            "name": "-- Sergiu"
+        },
         {
             "date": "04-08-2023",
             "link": "https://twitter.com/AntonOtto_FFC/status/1687869779766616064?s=20",
