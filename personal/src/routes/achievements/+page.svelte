@@ -29,7 +29,7 @@
                   <div class="mx-auto max-w-xl">
                     <div class="grid gap-12 md:gap-24">
                       <div class="text-sm font-light">
-                        <p class="text-black dark:text-white">Latest Achievements</p>
+                        <p class="text-black dark:text-white font-medium">Latest Achievements</p>
               
                         <div class="grid gap-6 mt-3">
                             {#each achievements as achievement}

@@ -35,7 +35,7 @@
                   <div class="mx-auto max-w-xl">
                     <div class="grid gap-12 md:gap-24">
                       <div class="text-sm font-light">
-                        <p class="text-black dark:text-white">Latest Resources</p>
+                        <p class="text-black dark:text-white font-medium">Latest Resources</p>
               
                         <div class="grid gap-6 mt-3">
                             {#each resources as resource}
