@@ -1,6 +1,12 @@
 <script>
     let resources = [
         {
+            "date": "05-07-2023",
+            "link": " https://twitter.com/that_igor_/status/1676661795912667149?s=20",
+            "title": "Do you want to start earning from the Internet and live a better life?",
+            "description": "LOL I sound guru-ish 🤣  But I have nothing to sell!  @nano_fund  GRIT is free and public 🦍 [...]"
+        },
+        {
             "date": "07-08-2023",
             "link": "https://twitter.com/AntonOtto_FFC/status/1687913501619044352?s=20",
             "title": "Monetization is an important part of creating a sustainable business 🤑",
