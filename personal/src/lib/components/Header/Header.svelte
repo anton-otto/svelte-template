@@ -48,15 +48,13 @@
             <p class="text-black dark:text-slate-100 font-bold">About</p>
             <div class="text-neutral-500 dark:text-neutral-300 space-y-3 mt-3">
               <p>
-                It all started with the curiosity of tech since I owned an Amiga a500. 
-                At age 13 I got more into coding due to Second Life.
+                I used the internet to grow my previous agency (2Lemon) from 300$ starting capital to 1.2M ARR in 1.5 years.
               </p>
               <p>
-                From robotics and microcotrollers, to Python code for factory automation. 
-                I have tried it all.
+                I focused on marketing and built tools to scale my marketing solutions ONE niche at a time. We leveraged Facebook groups and became a local authority.
               </p>
               <p>
-                Now I am learning how to use the internet. 
+                Now I am learning how to use the internet in 2023 and do it again, but bigger and better. 
                 My knowledge is endless and it is time for me to build systems which are lasting and help more people.
               </p>
             </div>
